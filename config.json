@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6288227606701@s.whatsapp.net"],
+  "ownerName": ["Lia"],
+  "botName": "YONXYZ-MD",
+  "sessionName": "session",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
